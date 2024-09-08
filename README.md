@@ -4,3 +4,12 @@
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/py-python-green?logo=python">
+
+
+## 🙋‍♂️ About Me
+
+🚀 Danil Skorodumov
+ I am a student at Urban University
+
+ 🛠️ **Skills:**
+- **Languages:** Python
